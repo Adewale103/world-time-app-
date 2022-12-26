@@ -16,9 +16,9 @@ intl: ^0.15.8
 flutter_spinkit: ^4.0.0
 
 # images
-![Time in Paris](https://raw.githubusercontent.com/Adewale103/world-time-app/main/worldtime1.png)
-![List of Cities](https://raw.githubusercontent.com/Adewale103/world-time-app/main/worldtime2.png)
-![Time in New-York](https://raw.githubusercontent.com/Adewale103/world-time-app/main/worldtime3.png)
+![Time in Paris](https://raw.githubusercontent.com/Adewale103/world-time-app-/main/worldtime1.png)
+![List of Cities](https://raw.githubusercontent.com/Adewale103/world-time-app-/main/worldtime2.png)
+![Time in New-York](https://raw.githubusercontent.com/Adewale103/world-time-app-/main/worldtime3.png)
 
 ## Getting Started
 
